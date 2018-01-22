@@ -32,7 +32,7 @@
 
 ### 密码管理
 > * [LastPass](https://www.lastpass.com)
-> * [KeePassX](https://www.keepassx.org)
+> * [KeePassX](https://www.keepassx.org)（[个人仓库](/usage/KeePassX)）
 > * [1Password](https://1password.com)
 
 ### 看图工具
@@ -65,3 +65,4 @@
 > * [protobuf](https://github.com/google/protobuf)
 > * [wireshark](https://github.com/wireshark/wireshark)
 > * [Box2D](https://github.com/madler/zlib)
+> * [angle](https://github.com/google/angle)
