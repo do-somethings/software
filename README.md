@@ -1,7 +1,7 @@
 # 常用软件
 
 ### 开发类
-> * [Git](https://git-scm.com/)->[解决中文乱码](/usage/git/解决中文乱码.md)
+> * [Git](https://git-scm.com/)（[解决中文乱码](/usage/git/解决中文乱码.md)）
 > * [Visual Studio](https://www.visualstudio.com/)
 > * [CMake](https://cmake.org)
 > * [Sublime Text](https://www.sublimetext.com)
