@@ -9,6 +9,7 @@
 > * [LLVM Clang](http://clang.llvm.org)
 > * [Beyond Compare](/cracked/BeyondCompare/)
 > * [UltraEdit](/cracked/UltraEdit/)
+> * [Sandboxie](/cracked/SandBoxie/)
 
 ### Android开发
 > * [Android Studio](https://developer.android.com/studio/index.html)
